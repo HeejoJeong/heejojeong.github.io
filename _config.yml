@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Heejo Jeong
-title: Master Degree Student(tmp)
+title: # Master Degree Student(tmp)
 email: wjdgmlwh1629343@gmail.com
 # email_title: Email (Email title override)
 phone: +82)10-3573-6274
@@ -66,15 +66,29 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-          
+      # ────────── M.S. ──────────
+      - layout: top
+        border: weak
+        title: Korea University
+        sub_title: M.S. in Computer Science & Engineering
+        caption: Sep 2023 – Aug 2025 · Seoul, Republic of Korea
+        description: |
+          • Advisor: <strong>Prof. JungHyun Han</strong>  
+          • GPA: 4.34 / 4.5
+
+      # ────────── B.S. (AI + CEA) ──────────
+      - layout: top
+        border: weak
+        title: Korea University
+        sub_title: |
+          B.S. in Artificial Intelligence (Interdisciplinary Program)<br>
+          B.S. in Civil, Environmental & Architectural Engineering
+        caption: Mar 2017 – Aug 2023 · Seoul, Republic of Korea
+        description: |
+          • Includes 2 years of mandatory military service  
+          • GPA: 4.06 / 4.5
+
+  
   - title: Publication          
     layout: list
     content:
