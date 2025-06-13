@@ -64,6 +64,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education
+    id: education
     layout: list
     content:
       # ────────── M.S. ──────────
@@ -73,7 +74,7 @@ content:
         sub_title: M.S. in Computer Science & Engineering
         caption: Sep 2023 – Aug 2025 · Seoul, Republic of Korea
         description: |
-          • Advisor: <strong>Prof. JungHyun Han</strong>  
+          • Advisor: Prof. JungHyun Han
           • GPA: 4.34 / 4.5
 
       # ────────── B.S. (AI + CEA) ──────────

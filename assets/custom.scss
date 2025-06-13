@@ -1,0 +1,18 @@
+/* Education 섹션만 타깃—ID를 education 으로 달아 둔 경우 */
+#education .item__content {
+  display: flex;          /* 한 줄에 두 영역 만들기 */
+  justify-content: space-between;
+  flex-wrap: wrap;        /* 모바일에선 자동 줄바꿈 */
+}
+
+#education .item__caption {
+  margin: 0;              /* 기본 마진 제거 */
+  align-self: center;     /* 세로 가운데 */
+  font-style: italic;
+}
+
+/* 내용(description) 줄맞춤 보정(선택) */
+#education .item__description {
+  flex-basis: 100%;       /* 다음 줄로 내려보내기 */
+  margin-top: .25rem;
+}
