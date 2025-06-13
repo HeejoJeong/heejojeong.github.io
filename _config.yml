@@ -74,7 +74,7 @@ content:
       caption: Sep 2023 – Aug 2025 · Seoul, KR
       description: |
         • Advisor: Prof. JungHyun Han
-        • GPA: <strong>4.34 / 4.5</strong>
+        • GPA: 4.34 / 4.5
 
     - layout: top
       border: weak
@@ -85,9 +85,8 @@ content:
       caption: Mar 2017 – Aug 2023 · Seoul, KR
       description: |
         • Includes 2 years of mandatory military service  
-        • GPA: <strong>4.06 / 4.5</strong>
+        • GPA: 4.06 / 4.5
 
-    # 세 번째 칸을 비워 두고 싶으면 이렇게 placeholder 한 줄만
     - layout: top
       title: ""
 
