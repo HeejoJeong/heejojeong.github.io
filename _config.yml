@@ -106,17 +106,11 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Learning Neural Hyper-elastic Constraints in XPBD Simulation&nbsp;
-          <a href="https://github.com/HeejoJeong/Learning_hyperelastic_constraints_in_XPBD">
+          <a href="https://github.com/HeejoJeong/PCISPH">
           <i class="fab fa-github"></i>
           </a>
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Description about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the project
       
 
 
