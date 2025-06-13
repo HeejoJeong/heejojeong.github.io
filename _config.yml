@@ -81,18 +81,13 @@ content:
     - layout: top
       border: weak
       title: Momentum-preserving Inversion Alleviation for Elastic Material Simulation
-      sub_title: Computer Animation & Virtual Worlds 35 (3), 2024
+      sub_title: **Heejo Jeong**, Seung-wook Kim, JaeHyun Lee, Kiwon Um, Min Hyung Kee, and JungHyun Han, Computer Animation and Virtual Worlds (CAVW), Vol. 35, No. 3, May 2024, pp. e2249. 
       link: https://doi.org/10.1002/cav.2249
       link_text: DOI
       additional_links:
         - title: Video presentation
           icon: fab fa-youtube
           url: https://www.youtube.com/watch?v=ht_7iMMiJic
-        - title: OpenReview page
-          icon: fas fa-external-link-alt
-          url: https://openreview.net/forum?id=K8g7sMX9d4
-      quote: >
-        H. Jeong*, S-w. Kim*, J. Lee, K. Um, M. H. Kee, J-h. Han (*equal contribution)
 
  
   - title: Projects # Title for the section
@@ -116,7 +111,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
       
-            - layout: left
+      - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Learning Neural Hyper-elastic Constraints in XPBD Simulation
