@@ -64,7 +64,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education
-    id: education
     layout: list
     content:
       # ────────── M.S. ──────────

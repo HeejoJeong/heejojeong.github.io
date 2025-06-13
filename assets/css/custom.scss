@@ -1,0 +1,24 @@
+/* 3-column grid for Education section */
+#education .list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);  /* 3칸 고정 */
+  gap: 2rem;                               /* 카드 간격 */
+}
+
+/* 카드 높이가 달라져도 위로 정렬 */
+#education .list > li {
+  display: flex;
+  flex-direction: column;
+}
+
+/* 모바일 대응: 화면이 좁으면 자동으로 1~2칸으로 줄어듦 */
+@media (max-width: 900px) {
+  #education .list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 600px) {
+  #education .list {
+    grid-template-columns: 1fr;
+  }
+}
