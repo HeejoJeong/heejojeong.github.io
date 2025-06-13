@@ -64,29 +64,32 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education
+    id: education          # ← CSS에서 선택할 고유 ID
     layout: list
     content:
-      # ────────── M.S. ──────────
-      - layout: top
-        border: weak
-        title: Korea University
-        sub_title: M.S. in Computer Science & Engineering
-        caption: Sep 2023 – Aug 2025 · Seoul, Republic of Korea
-        description: |
-          • Advisor: Prof. JungHyun Han
-          • GPA: 4.34 / 4.5
+    - layout: top
+      border: weak
+      title: Korea University
+      sub_title: M.S. in Computer Science & Engineering
+      caption: Sep 2023 – Aug 2025 · Seoul, KR
+      description: |
+        • Advisor: Prof. JungHyun Han
+        • GPA: <strong>4.34 / 4.5</strong>
 
-      # ────────── B.S. (AI + CEA) ──────────
-      - layout: top
-        border: weak
-        title: Korea University
-        sub_title: |
-          B.S. in Artificial Intelligence (Interdisciplinary Program)<br>
-          B.S. in Civil, Environmental & Architectural Engineering
-        caption: Mar 2017 – Aug 2023 · Seoul, Republic of Korea
-        description: |
-          • Includes 2 years of mandatory military service  
-          • GPA: 4.06 / 4.5
+    - layout: top
+      border: weak
+      title: Korea University
+      sub_title: |
+        B.S. in Artificial Intelligence (Interdisciplinary Program)<br>
+        B.S. in Civil, Environmental & Architectural Engineering
+      caption: Mar 2017 – Aug 2023 · Seoul, KR
+      description: |
+        • Includes 2 years of mandatory military service  
+        • GPA: <strong>4.06 / 4.5</strong>
+
+    # 세 번째 칸을 비워 두고 싶으면 이렇게 placeholder 한 줄만
+    - layout: top
+      title: ""
 
   
   - title: Publication          

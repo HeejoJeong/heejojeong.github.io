@@ -1,5 +1,23 @@
----
-# Front matter comment to ensure Jekyll properly reads file.
----
+
+/*Front matter comment to ensure Jekyll properly reads file.*/
 
 @import 'modern-resume-theme';
+
+/* Education 섹션 전체를 3-column grid */
+#education .list {
+  display: flex;            /* flex 대신 grid 써도 되지만 flex가 덜 깨져 */
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+/* 각 카드( li )를 1/3 폭으로 */
+#education .list > li {
+  flex: 1 1 calc(33.333% - 1.5rem);
+  margin: 0;                /* theme 기본 margin 제거 */
+}
+/* 모바일 대응: 화면 900px-이하 → 2칸, 600px-이하 → 1칸 */
+@media (max-width: 900px) {
+  #education .list > li { flex: 1 1 calc(50% - 1.5rem); }
+}
+@media (max-width: 600px) {
+  #education .list > li { flex: 1 1 100%; }
+}
