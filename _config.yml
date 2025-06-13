@@ -12,7 +12,7 @@ email: wjdgmlwh1629343@gmail.com
 # email_title: Email (Email title override)
 phone: +82)10-3573-6274
 # phone_title: Phone (Phone title override)
-website: https:// Your website (eg. https://google.com)(optional)
+# website: https:// Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -34,10 +34,12 @@ orcid_username: #0000-0000-0000-0000
 googlescholar_username: #D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -61,6 +63,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -81,6 +84,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+
   - title: Experience
     layout: list
     content:
@@ -93,6 +97,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+
   - title: Education
     layout: list
     content:
@@ -104,6 +109,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
