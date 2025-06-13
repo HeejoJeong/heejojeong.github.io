@@ -78,7 +78,7 @@ content:
   - title: Publication          
     layout: list
     content:
-    - layout: left
+    - layout: top
       border: weak
       title: Momentum-preserving Inversion Alleviation for Elastic Material Simulation
       sub_title: Computer Animation & Virtual Worlds 35 (3), 2024
