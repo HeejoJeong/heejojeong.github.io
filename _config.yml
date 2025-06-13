@@ -109,11 +109,11 @@ content:
           <a href="https://github.com/HeejoJeong/PCISPH">
           <i class="fab fa-github"></i>
           </a>
-          quote: |
+        quote: |
           <div class="proj-imgs">
-            <img src="/images/landscape-trees.jpg" alt="Deformation 1">
-            <img src="/images/landscape-trees.jpg" alt="Deformation 2">
-            <img src="/images/landscape-trees.jpg" alt="Deformation 3">
+            <img src="/images/landscape-trees.jpg" >
+            <img src="/images/landscape-trees.jpg">
+            <img src="/images/landscape-trees.jpg">
           </div>
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the project
