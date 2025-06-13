@@ -81,7 +81,7 @@ content:
     - layout: top
       border: weak
       title: Momentum-preserving Inversion Alleviation for Elastic Material Simulation
-      sub_title: **Heejo Jeong**, Seung-wook Kim, JaeHyun Lee, Kiwon Um, Min Hyung Kee, and JungHyun Han, Computer Animation and Virtual Worlds (CAVW), Vol. 35, No. 3, May 2024, pp. e2249. 
+      sub_title: "**Heejo Jeong**, Seung-wook Kim, JaeHyun Lee, Kiwon Um, Min Hyung Kee, and JungHyun Han, Computer Animation and Virtual Worlds (CAVW), Vol. 35, No. 3, May 2024, pp. e2249."
       link: https://doi.org/10.1002/cav.2249
       link_text: DOI
       additional_links:
