@@ -52,7 +52,7 @@ googlescholar_username: #D847cGsAAAAJ
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -87,6 +87,7 @@ content:
         • Includes 2 years of mandatory military service  
         • GPA: 4.06 / 4.5
 
+    # 세 번째 칸을 비워 두고 싶으면 이렇게 placeholder 한 줄만
     - layout: top
       title: ""
 
