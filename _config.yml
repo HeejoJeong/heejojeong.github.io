@@ -111,10 +111,20 @@ content:
           </a>
         quote: |
           <div class="proj-imgs">
-            <img src="/images/landscape-trees.jpg" >
+            <img src="/images/landscape-trees.jpg">
             <img src="/images/landscape-trees.jpg">
             <img src="/images/landscape-trees.jpg">
           </div>
+        quote: |
+          <div style="display:flex;flex-wrap:wrap;gap:8px;">
+            <img src="/images/landscape-trees.jpg" alt="Demo 1"
+                style="flex:1 1 calc(33% - 8px);max-width:100%;height:auto;">
+            <img src="/images/landscape-trees.jpg" alt="Demo 2"
+                style="flex:1 1 calc(33% - 8px);max-width:100%;height:auto;">
+            <img src="/images/landscape-trees.jpg" alt="Demo 3"
+                style="flex:1 1 calc(33% - 8px);max-width:100%;height:auto;">
+          </div>
+
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the project
       
