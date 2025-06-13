@@ -66,17 +66,14 @@ content:
   - title: Education
     layout: list
     content:
-      # ────────── M.S. ──────────
       - layout: top
         border: weak
         title: Korea University
         sub_title: M.S. in Computer Science & Engineering
         caption: Sep 2023 – Aug 2025 · Seoul, Republic of Korea
         description: |
-          • Advisor: <strong>Prof. JungHyun Han</strong>  
-          • GPA: <strong>4.34 / 4.5</strong>
+          • Advisor: <strong>Prof. JungHyun Han</strong> 
 
-      # ────────── B.S. (AI + CEA) ──────────
       - layout: top
         border: weak
         title: Korea University
@@ -85,8 +82,7 @@ content:
           B.S. in Civil, Environmental & Architectural Engineering
         caption: Mar 2017 – Aug 2023 · Seoul, Republic of Korea
         description: |
-          • Includes 2 years of mandatory military service  
-          • GPA: <strong>4.06 / 4.5</strong>
+          • Includes 2 years of mandatory military service 
 
           
   - title: Publication          
@@ -109,14 +105,11 @@ content:
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Learning Neural Hyper-elastic Constraints in XPBD Simulation
-        
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: Learning Neural Hyper-elastic Constraints in XPBD Simulation&nbsp;
+          <a href="https://github.com/HeejoJeong/Learning_hyperelastic_constraints_in_XPBD">
+          <i class="fab fa-github"></i>
+          </a>
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
@@ -125,6 +118,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
       
+
+
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -142,7 +137,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -175,12 +169,12 @@ content:
           Description of role
 
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  #     Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
