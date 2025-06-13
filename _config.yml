@@ -109,12 +109,12 @@ content:
           <a href="https://github.com/HeejoJeong/PCISPH">
           <i class="fab fa-github"></i>
           </a>
-        quote: |
-          <div class="proj-imgs">
-            <img src="/images/landscape-trees.jpg">
-            <img src="/images/landscape-trees.jpg">
-            <img src="/images/landscape-trees.jpg">
-          </div>
+        # quote: |
+        #   <div class="proj-imgs">
+        #     <img src="/images/landscape-trees.jpg">
+        #     <img src="/images/landscape-trees.jpg">
+        #     <img src="/images/landscape-trees.jpg">
+        #   </div>
         quote: |
           <div style="display:flex;flex-wrap:wrap;gap:8px;">
             <img src="/images/landscape-trees.jpg" alt="Demo 1"
