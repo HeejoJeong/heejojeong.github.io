@@ -74,14 +74,17 @@ content:
       - layout: top
         border: weak
         title: Korea University
+        caption: <small>Seoul, Republic of Korea</small>
         sub_title: |
-          M.S. in Computer Science & Engineering (Sep 2023 – Aug 2025)<br>
-          B.S. in Artificial Intelligence (Interdisciplinary Program)<br>
-          B.S. in Civil, Environmental & Architectural Engineering (Mar 2017 – Aug 2023)
-        caption: Seoul, Republic of Korea
-        description: |
-          Advisor (M.S.): <strong><a href="https://media.korea.ac.kr/people/jhan/">Prof. JungHyun Han</a></strong><br>
-          Undergraduate period includes 2 years of mandatory military service
+          <strong>M.S. in Computer Science &amp; Engineering</strong>
+          <small>(Sep&nbsp;2023 – Aug&nbsp;2025)</small><br>
+          Advisor (M.S.): <a href="https://media.korea.ac.kr/people/jhan/">Prof.&nbsp;JungHyun&nbsp;Han</a><br><br>
+          <strong>B.S. in Artificial Intelligence (Interdisciplinary Program)</strong><br>
+          <strong>B.S. in Civil, Environmental &amp; Architectural Engineering</strong>
+          <small>(Mar&nbsp;2017 – Aug&nbsp;2023)</small>
+        description: >
+          Undergraduate period includes 2&nbsp;years of mandatory military service
+
 
           
   - title: Publication          
