@@ -152,12 +152,10 @@ content:
           </a>
         quote: |
           <div style="display:flex;flex-wrap:nowrap;gap:8px;justify-content:space-between;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 1"
-                style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 2"
-                style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 3"
-                style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
+            <img src="/images/figs_project/PCISPH/PCISPH1.gif" alt="Demo 1"
+                style="flex:0 0 calc(49.999% - 8px);max-width:49.999%;height:auto;">
+            <img src="/images/figs_project/PCISPH/PCISPH2.gif" alt="Demo 2"
+                style="flex:0 0 calc(49.999% - 8px);max-width:49.999%;height:auto;">
           </div>
 
 
