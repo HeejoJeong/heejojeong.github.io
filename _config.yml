@@ -102,7 +102,13 @@ content:
                 <a href="https://www.youtube.com/watch?v=ht_7iMMiJic">
                 <i class="fab fa-youtube"></i>
                 </a>
-
+  - title: Experience
+    layout: list
+    content:
+      - layout: top
+        title: Research Intern
+        sub_title: Collaborated with <a href="https://perso.telecom-paristech.fr/kum/"><strong>Prof. Kiwon Um</strong></a> on differentiable physics and data-driven simulation methods.
+        caption: at Télécom Paris, Institut Polytechnique de Paris, France (Jan 2025 -- Feb 2025)
  
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -173,13 +179,7 @@ content:
 
 
 
-  - title: Experience
-    layout: list
-    content:
-      - layout: top
-        title: Research Intern
-        sub_title: Collaborated with <a href="https://perso.telecom-paristech.fr/kum/"><strong>Prof. Kiwon Um</strong></a> on differentiable physics and data-driven simulation methods.
-        caption: at Télécom Paris, Institut Polytechnique de Paris, France (Jan 2025 -- Feb 2025)
+
            
 
 
@@ -223,7 +223,4 @@ exclude : [
 
 # TODO List
 # 2. Stable Fluid Refactoring and Github Upload
-# 3. Experience
-# 4. CV에 있는 잡다한 것들 중 쓸만 한 것 없나.
-# 5. Scroll Update
 # 6. 공부중인거.
