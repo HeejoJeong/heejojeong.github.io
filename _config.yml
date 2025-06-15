@@ -112,11 +112,11 @@ content:
         quote: |
           <div style="display:flex;flex-wrap:nowrap;gap:8px;justify-content:space-between;">
             <img src="/images/figs_project/LearningNeuralConstraint/GT.gif" alt="Demo 1"
-                style="flex:0 0 calc(40.0% - 8px);max-width:40.0%;height:auto;">
+                style="flex:0 0 calc(42.5% - 8px);max-width:42.5%;height:auto;">
             <img src="/images/figs_project/LearningNeuralConstraint/arrow.JPG" alt="Demo 2"
-                style="flex:0 0 calc(19.999% - 8px);max-width:19.999%;height:auto;">
+                style="flex:0 0 calc(14.999% - 8px);max-width:14.999%;height:auto;">
             <img src="/images/figs_project/LearningNeuralConstraint/gen.gif" alt="Demo 3"
-                style="flex:0 0 calc(40.0% - 8px);max-width:40.0%;height:auto;">
+                style="flex:0 0 calc(42.5% - 8px);max-width:42.5%;height:auto;">
           </div>
 
         description: | # this will include new lines to allow paragraphs
@@ -153,18 +153,18 @@ content:
         quote: |
           <table>
             <tr>
-              <td align="center" width="48%">
+              <td align="center" width="49%">
                 <img src="/images/figs_project/PCISPH/PCISPH1.gif" width="100%"><br>
               </td>
-              <td width="4%">&nbsp;</td> 
-              <td align="center" width="48%">
+              <td width="2%">&nbsp;</td> 
+              <td align="center" width="49%">
                 <img src="/images/figs_project/PCISPH/PCISPH2.gif" width="100%"><br>
               </td>
             </tr>
           </table>
 
         description: | 
-          A practice example that implements the full Predictive-Corrective Incompressible SPH pipeline from scratch using only minimal data structures.
+          A practice example that implements the full Predictive-Corrective Incompressible SPH pipeline from scratch using only minimal data structures.(slow...)
 
 
 
