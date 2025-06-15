@@ -151,13 +151,18 @@ content:
           <i class="fab fa-github"></i>
           </a>
         quote: |
-          <figure id="pcisph-gallery">
-            <img src="/images/figs_project/PCISPH/PCISPH1.gif"   alt="Droplet splash">
-            <figcaption>Demo 1 · Droplet splash</figcaption>
-
-            <img src="/images/figs_project/PCISPH/PCISPH2.gif"   alt="Dam break">
-            <figcaption>Demo 2 · Dam break</figcaption>
-          </figure>
+          <table>
+            <tr>
+              <td align="center" width="50%">
+                <img src="/images/figs_project/PCISPH/PCISPH1.gif" width="100%"><br>
+                <sub><b>Demo 1 · Droplet splash</b></sub>
+              </td>
+              <td align="center" width="50%">
+                <img src="/images/figs_project/PCISPH/PCISPH2.gif" width="100%"><br>
+                <sub><b>Demo 2 · Dam break</b></sub>
+              </td>
+            </tr>
+          </table>
 
         description: | 
           A practice example that implements the full Predictive-Corrective Incompressible SPH pipeline from scratch using only minimal data structures.
