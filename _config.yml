@@ -177,12 +177,10 @@ content:
     layout: list
     content:
       - layout: top
-        title: Research Intern, Télécom Paris, Institut Polytechnique de Paris, France
-        caption: Jan 2025 -- Feb 2025
-        # If you want to link to Telecom Paris, uncomment the 'link' line and add the URL
-        # link: https://www.telecom-paris.fr/
-        description: | # this will include new lines to allow paragraphs
-           Collaborated with <a href="https://perso.telecom-paristech.fr/kum/"><strong>Prof. Kiwon Um</strong></a> on differentiable physics and data-driven simulation methods.
+        title: Research Intern
+        sub_title: Collaborated with <a href="https://perso.telecom-paristech.fr/kum/"><strong>Prof. Kiwon Um</strong></a> on differentiable physics and data-driven simulation methods.
+        caption: at Télécom Paris, Institut Polytechnique de Paris, France (Jan 2025 -- Feb 2025)
+           
 
 
   # - title: A Little More About Me
