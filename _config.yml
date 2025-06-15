@@ -146,7 +146,7 @@ content:
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: PCISPH&nbsp;
+        title: PCISPH(Predictive-Corrective Incompressible SPH)&nbsp;
           <a href="https://github.com/HeejoJeong/PCISPH">
           <i class="fab fa-github"></i>
           </a>
@@ -158,11 +158,8 @@ content:
                 style="flex:0 0 calc(49.999% - 8px);max-width:49.999%;height:auto;">
           </div>
 
-
         description: | 
           A practice example that implements the full Predictive-Corrective Incompressible SPH pipeline from scratch using only minimal data structures.
-
-
 
 
 
