@@ -110,7 +110,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Learning Neural Hyper-elastic Constraints in XPBD Simulation&nbsp;
-          <a href="https://github.com/HeejoJeong/Learning_hyperelastic_cosntraints_in_XPBD">
+          <a href="https://github.com/HeejoJeong/Learning_hyperelastic_constraints_in_XPBD">
           <i class="fab fa-github"></i>
           </a>
         quote: |
@@ -221,3 +221,13 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
+
+
+# TODO List
+# 1. CV 첨부
+# 2. Stable Fluid Refactoring and Github Upload
+# 3. Experience
+# 4. CV에 있는 잡다한 것들 중 쓸만 한 것 없나.
+# 5. Scroll Update
+# 6. 공부중인거.
