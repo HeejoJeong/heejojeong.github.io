@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
   I’m now looking for a Ph.D. program where I can help push the boundaries of realistic,
   interactive visual computing.
   <br>
-  &nbsp;<strong>You can find more details about my academic background and experience in my</strong> [full Curriculum Vitae](/images/Heejo_Jeong_s_CV.pdf).
+  &nbsp;<strong>You can find more details about my academic background and experience in my</strong> [Curriculum Vitae](/images/Heejo_Jeong_s_CV.pdf).
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -102,14 +102,17 @@ content:
                 <a href="https://www.youtube.com/watch?v=ht_7iMMiJic">
                 <i class="fab fa-youtube"></i>
                 </a>
+
   - title: Experience
     layout: list
     content:
       - layout: top
+        border: weak
         title: Research Intern
         sub_title: Collaborated with <a href="https://perso.telecom-paristech.fr/kum/"><strong>Prof. Kiwon Um</strong></a> on differentiable physics and data-driven simulation methods.
         caption: at Télécom Paris, Institut Polytechnique de Paris, France (Jan 2025 -- Feb 2025)
  
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -175,7 +178,7 @@ content:
           </table>
 
         description: | 
-          A practice example that implements the full Predictive-Corrective Incompressible SPH pipeline from scratch using only minimal data structures.(slow...)
+          A practice example that implements the full Predictive-Corrective Incompressible SPH pipeline from scratch using only minimal data structures.
 
 
 
