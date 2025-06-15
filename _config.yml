@@ -111,11 +111,11 @@ content:
           </a>
         quote: |
           <div style="display:flex;flex-wrap:nowrap;gap:8px;justify-content:space-between;">
-            <img src="/images/figs_project/Learning_hyperelastic_cosntraints_in_XPBD/GT.gif" alt="Demo 1"
+            <img src="/images/figs_project/LearningNeuralConstraint/GT.gif" alt="Demo 1"
                 style="flex:0 0 calc(40.0% - 8px);max-width:40.0%;height:auto;">
             <img src="/images/landscape-trees.jpg" alt="Demo 2"
                 style="flex:0 0 calc(19.999% - 8px);max-width:19.999%;height:auto;">
-            <img src="/images/figs_project/Learning_hyperelastic_cosntraints_in_XPBD/gen.gif" alt="Demo 3"
+            <img src="/images/figs_project/LearningNeuralConstraint/gen.gif" alt="Demo 3"
                 style="flex:0 0 calc(40.0% - 8px);max-width:40.0%;height:auto;">
           </div>
 
