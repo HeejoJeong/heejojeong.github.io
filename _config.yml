@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: HeejoJeong/heejojeong.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -59,7 +59,7 @@ about_content: | # this will include new lines to allow paragraphs
   I’m now looking for a Ph.D. program where I can help push the boundaries of realistic,
   interactive visual computing.
   <br>
-  &nbsp;You can find more details about my academic background and experience in my [full Curriculum Vitae](/images/Heejo_Jeong_s_CV.pdf).
+  &nbsp;<strong>You can find more details about my academic background and experience in my</strong> [full Curriculum Vitae](/images/Heejo_Jeong_s_CV.pdf).
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -176,15 +176,13 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: top
+        title: Research Intern, Télécom Paris, Institut Polytechnique de Paris, France
+        caption: Jan 2025 -- Feb 2025
+        # If you want to link to Telecom Paris, uncomment the 'link' line and add the URL
+        # link: https://www.telecom-paris.fr/
         description: | # this will include new lines to allow paragraphs
-          Description of role
+           Collaborated with <a href="https://perso.telecom-paristech.fr/kum/"><strong>Prof. Kiwon Um</strong></a> on differentiable physics and data-driven simulation methods.
 
 
   # - title: A Little More About Me
@@ -226,7 +224,6 @@ exclude : [
 
 
 # TODO List
-# 1. CV 첨부
 # 2. Stable Fluid Refactoring and Github Upload
 # 3. Experience
 # 4. CV에 있는 잡다한 것들 중 쓸만 한 것 없나.
