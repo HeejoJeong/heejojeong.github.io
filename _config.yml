@@ -35,10 +35,10 @@ googlescholar_username: #D847cGsAAAAJ
 
 # Additional icon links
 
-# additional_links:
-# - title: Download CV
-#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+- title: Download CV
+  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -75,28 +75,17 @@ content:
         border: weak
         title: Korea University, <small>Seoul, Republic of Korea</small>
         sub_title: |
-         <div style="padding-bottom: 8px; margin-bottom: 8px; border-bottom: 1px solid #e0e0e0;">
-            <strong>M.S. in Computer Science &amp; Engineering</strong>
-            <small>(Sep&nbsp;2023 – Aug&nbsp;2025)</small><br>
-            &emsp;Advisor (M.S.): <a href="https://media.korea.ac.kr/people/jhan/"><strong>Prof.&nbsp;JungHyun&nbsp;Han</strong></a>
-          </div>
+          <br>
+          <strong>M.S. in Computer Science &amp; Engineering</strong>
+          <small>(Sep&nbsp;2023 – Aug&nbsp;2025)</small><br>
+          &emsp;Advisor (M.S.): <a href="https://media.korea.ac.kr/people/jhan/"><strong>Prof.&nbsp;JungHyun&nbsp;Han</strong></a>
+          <br>
+          <br>
           <strong>B.S. in Civil, Environmental &amp; Architectural Engineering</strong>
           <small>(Mar&nbsp;2017 – Aug&nbsp;2023)</small><br>
           <strong>B.S. in Artificial Intelligence</strong> <small>(Interdisciplinary Program)</small>
-
-# <br>
-# <strong>M.S. in Computer Science &amp; Engineering</strong>
-# <small>(Sep&nbsp;2023 – Aug&nbsp;2025)</small><br>
-# &emsp;Advisor (M.S.): <a href="https://media.korea.ac.kr/people/jhan/"><strong>Prof.&nbsp;JungHyun&nbsp;Han</strong></a>
-# <br>
-# <hr>
-# <br>
-# <strong>B.S. in Civil, Environmental &amp; Architectural Engineering</strong>
-# <small>(Mar&nbsp;2017 – Aug&nbsp;2023)</small><br>
-# <strong>B.S. in Artificial Intelligence</strong> <small>(Interdisciplinary Program)</small>
         caption: >
           &emsp;Undergraduate period includes 2&nbsp;years of mandatory military service
-
 
           
   - title: Publication          
