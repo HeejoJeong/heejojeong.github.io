@@ -73,8 +73,7 @@ content:
     content:
       - layout: top
         border: weak
-        title: Korea University
-        caption: <small>Seoul, Republic of Korea</small>
+        title: Korea University, <small>Seoul, Republic of Korea</small>
         sub_title: |
           <strong>M.S. in Computer Science &amp; Engineering</strong>
           <small>(Sep&nbsp;2023 – Aug&nbsp;2025)</small><br>
