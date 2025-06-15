@@ -54,13 +54,18 @@ googlescholar_username: #D847cGsAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, I’m Heejo Jeong. I graduated with an M.S. in Computer Graphics from Korea University,
+  specializing in physics-based animation, and along the way I developed a passion for real-time graphics.
+  I’m now looking for a Ph.D. program where I can help push the boundaries of realistic,
+  interactive visual computing.
+  
+  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Education
