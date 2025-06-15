@@ -106,22 +106,21 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Learning Neural Hyper-elastic Constraints in XPBD Simulation&nbsp;
-          <a href="https://github.com/HeejoJeong/PCISPH">
+          <a href="https://github.com/HeejoJeong/Learning_hyperelastic_cosntraints_in_XPBD">
           <i class="fab fa-github"></i>
           </a>
         quote: |
           <div style="display:flex;flex-wrap:nowrap;gap:8px;justify-content:space-between;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 1"
-                style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
+            <img src="/images/figs_project/Learning_hyperelastic_cosntraints_in_XPBD/GT.gif" alt="Demo 1"
+                style="flex:0 0 calc(40.0% - 8px);max-width:40.0%;height:auto;">
             <img src="/images/landscape-trees.jpg" alt="Demo 2"
-                style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 3"
-                style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
+                style="flex:0 0 calc(19.999% - 8px);max-width:19.999%;height:auto;">
+            <img src="/images/figs_project/Learning_hyperelastic_cosntraints_in_XPBD/gen.gif" alt="Demo 3"
+                style="flex:0 0 calc(40.0% - 8px);max-width:40.0%;height:auto;">
           </div>
 
-
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the project
+          A neural network is inserted into the XPBD physics engine so it can learn realistic soft-body behaviour (like rubber or flesh) from just a few example motions, replacing tedious hand-tuned material formulas.
 
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -147,7 +146,7 @@ content:
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Learning Neural Hyper-elastic Constraints in XPBD Simulation&nbsp;
+        title: PCISPH&nbsp;
           <a href="https://github.com/HeejoJeong/PCISPH">
           <i class="fab fa-github"></i>
           </a>
@@ -162,8 +161,8 @@ content:
           </div>
 
 
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the project
+        description: | 
+          A practice example that implements the full Predictive-Corrective Incompressible SPH pipeline from scratch using only minimal data structures.
 
 
 
