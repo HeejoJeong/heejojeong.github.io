@@ -129,20 +129,19 @@ content:
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Learning Neural Hyper-elastic Constraints in XPBD Simulation&nbsp;
-          <a href="https://github.com/HeejoJeong/PCISPH">
+        title: Stable Fluidn&nbsp;
+          <a href="https://github.com/HeejoJeong/StableFluid">
           <i class="fab fa-github"></i>
           </a>
         quote: |
           <div style="display:flex;flex-wrap:nowrap;gap:8px;justify-content:space-between;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 1"
+            <img src="/images/figs_project/StableFluid/circles.gif" alt="Demo 1"
                 style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 2"
+            <img src="/images/figs_project/StableFluid/square.gif" alt="Demo 2"
                 style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 3"
+            <img src="/images/figs_project/StableFluid/smoke_plume.gif" alt="Demo 3"
                 style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
           </div>
-
 
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the project
