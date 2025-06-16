@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: HeejoJeong/heejojeong.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Heejo Jeong
-title: # Master Degree Student(tmp)
+title: M.S in CS | Seeking Ph.D. Opportunities
 email: wjdgmlwh1629343@gmail.com
 # email_title: Email (Email title override)
 phone: +82)10-3573-6274
@@ -36,7 +36,7 @@ googlescholar_username: #D847cGsAAAAJ
 # Additional icon links
 
 # additional_links:
-# - title: Link name
+# - title: Download CV
 #   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
 
@@ -54,11 +54,13 @@ googlescholar_username: #D847cGsAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I’m Heejo Jeong. I graduated with an M.S. in Computer Graphics from Korea University,
+  &nbsp;Hi, I’m Heejo Jeong. I graduated with an M.S. in Computer Graphics from Korea University,
   specializing in physics-based animation, and along the way I developed a passion for real-time graphics.
   I’m now looking for a Ph.D. program where I can help push the boundaries of realistic,
   interactive visual computing.
-  
+  <br>
+  &nbsp;<strong>You can find more details about my academic background and experience in my</strong> [CV](/images/Heejo_Jeong_s_CV.pdf).
+
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -87,7 +89,6 @@ content:
         caption: >
           &emsp;Undergraduate period includes 2&nbsp;years of mandatory military service
 
-
           
   - title: Publication          
     layout: list
@@ -102,7 +103,16 @@ content:
                 <i class="fab fa-youtube"></i>
                 </a>
 
+  - title: Experience
+    layout: list
+    content:
+      - layout: top
+        border: weak
+        title: Research Intern
+        sub_title: Collaborated with <a href="https://perso.telecom-paristech.fr/kum/"><strong>Prof. Kiwon Um</strong></a> on differentiable physics and data-driven simulation methods.
+        caption: at Télécom Paris, Institut Polytechnique de Paris, France (Jan 2025 -- Feb 2025)
  
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -167,22 +177,12 @@ content:
           </table>
 
         description: | 
-          A practice example that implements the full Predictive-Corrective Incompressible SPH pipeline from scratch using only minimal data structures.(slow...)
+          A practice example that implements the full Predictive-Corrective Incompressible SPH pipeline from scratch using only minimal data structures.
 
 
 
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+
+           
 
 
   # - title: A Little More About Me
@@ -224,9 +224,5 @@ exclude : [
 
 
 # TODO List
-# 1. CV 첨부
 # 2. Stable Fluid Refactoring and Github Upload
-# 3. Experience
-# 4. CV에 있는 잡다한 것들 중 쓸만 한 것 없나.
-# 5. Scroll Update
 # 6. 공부중인거.
