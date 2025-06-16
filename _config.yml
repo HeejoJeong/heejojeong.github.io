@@ -117,8 +117,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: Learning Neural Hyper-elastic Constraints in XPBD Simulation&nbsp;
           <a href="https://github.com/HeejoJeong/Learning_hyperelastic_constraints_in_XPBD">
           <i class="fab fa-github"></i>
@@ -137,8 +136,7 @@ content:
           A neural network is inserted into the XPBD physics engine so it can learn realistic soft-body behaviour (like rubber or flesh) from just a few example motions, replacing tedious hand-tuned material formulas.
 
       - layout: top
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: Stable Fluid&nbsp;
           <a href="https://github.com/HeejoJeong/StableFluid">
           <i class="fab fa-github"></i>
@@ -152,13 +150,11 @@ content:
             <img src="/images/figs_project/StableFluid/smoke_plume.gif" alt="Demo 3"
                 style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
           </div>
-
         description: | # this will include new lines to allow paragraphs
-          A 2-D stable-fluid solver originally prototyped for an **LG Electronics** project on real-time air-conditioning airflow visualization in the metaverse.
+          A 2-D stable-fluid solver originally prototyped for an **LG Electronics** project on real-time air-conditioning airflow visualization in the metaverse. Implemented in Taichi for GPU-accelerated Conjugate gradient method
 
       - layout: top
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: PCISPH(Predictive-Corrective Incompressible SPH)&nbsp;
           <a href="https://github.com/HeejoJeong/PCISPH">
           <i class="fab fa-github"></i>
