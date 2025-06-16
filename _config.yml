@@ -118,7 +118,7 @@ content:
     content:
       - layout: top
         border: weak
-        title: Learning Neural Hyper-elastic Constraints in XPBD Simulation,<small>Thesis<\small>&nbsp;
+        title: Learning Neural Hyper-elastic Constraints in XPBD Simulation, <small>Thesis</small> &nbsp;
           <a href="https://github.com/HeejoJeong/Learning_hyperelastic_constraints_in_XPBD">
           <i class="fab fa-github"></i>
           </a>
