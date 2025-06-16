@@ -139,7 +139,7 @@ content:
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Stable Fluidn&nbsp;
+        title: Stable Fluid&nbsp;
           <a href="https://github.com/HeejoJeong/StableFluid">
           <i class="fab fa-github"></i>
           </a>
@@ -154,7 +154,7 @@ content:
           </div>
 
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the project
+          A 2-D stable-fluid solver originally prototyped for an **LG Electronics** project on real-time air-conditioning airflow visualization in the metaverse.
 
       - layout: top
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
