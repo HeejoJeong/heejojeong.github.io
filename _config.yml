@@ -111,7 +111,13 @@ content:
         border: weak
         title: Research Intern
         sub_title: Collaborated with <a href="https://perso.telecom-paristech.fr/kum/"><strong>Prof. Kiwon Um</strong></a> on differentiable physics and data-driven simulation methods.
-        caption: at Télécom Paris, Institut Polytechnique de Paris, France (Jan 2025 -- Feb 2025)
+        caption: at Télécom Paris, Institut Polytechnique de Paris, France (Jan 2025 ~ Feb 2025)
+      - layout: top
+        border: weak
+        title: Military Service
+        sub_title: Republic of Korea Army
+        caption: (Aug 2020 ~ May 2022)
+
  
 
   - title: Projects # Title for the section
