@@ -9,6 +9,7 @@ version: 2
 name: Heejo Jeong
 title: M.S in CS | Seeking Ph.D. Opportunities
 email: wjdgmlwh1629343@gmail.com
+#wjdgmlwh1629343@gmail.com
 # email_title: Email (Email title override)
 phone: +82)10-3573-6274
 # phone_title: Phone (Phone title override)
@@ -80,7 +81,7 @@ content:
           <br>
           <strong>M.S. in Computer Science &amp; Engineering</strong>
           <small>(Sep&nbsp;2023 – Aug&nbsp;2025)</small><br>
-          &emsp;Advisor (M.S.): <a href="https://media.korea.ac.kr/people/jhan/"><strong>Prof.&nbsp;JungHyun&nbsp;Han</strong></a>
+          &emsp;Advisor: <a href="https://media.korea.ac.kr/people/jhan/"><strong>Prof.&nbsp;JungHyun&nbsp;Han</strong></a>
           <br>
           <br>
           <strong>B.S. in Civil, Environmental &amp; Architectural Engineering</strong>
@@ -110,16 +111,21 @@ content:
         border: weak
         title: Research Intern
         sub_title: Collaborated with <a href="https://perso.telecom-paristech.fr/kum/"><strong>Prof. Kiwon Um</strong></a> on differentiable physics and data-driven simulation methods.
-        caption: at Télécom Paris, Institut Polytechnique de Paris, France (Jan 2025 -- Feb 2025)
+        caption: at Télécom Paris, Institut Polytechnique de Paris, France (Jan 2025 ~ Feb 2025)
+      - layout: top
+        border: weak
+        title: Military Service
+        sub_title: Republic of Korea Army
+        caption: (Aug 2020 ~ May 2022)
+
  
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Learning Neural Hyper-elastic Constraints in XPBD Simulation&nbsp;
+        border: weak
+        title: Learning Neural Hyperelastic Constraints in XPBD Simulation, <small>Thesis</small> &nbsp;
           <a href="https://github.com/HeejoJeong/Learning_hyperelastic_constraints_in_XPBD">
           <i class="fab fa-github"></i>
           </a>
@@ -137,29 +143,25 @@ content:
           A neural network is inserted into the XPBD physics engine so it can learn realistic soft-body behaviour (like rubber or flesh) from just a few example motions, replacing tedious hand-tuned material formulas.
 
       - layout: top
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Learning Neural Hyper-elastic Constraints in XPBD Simulation&nbsp;
-          <a href="https://github.com/HeejoJeong/PCISPH">
+        border: weak
+        title: Stable Fluid&nbsp;
+          <a href="https://github.com/HeejoJeong/StableFluid">
           <i class="fab fa-github"></i>
           </a>
         quote: |
           <div style="display:flex;flex-wrap:nowrap;gap:8px;justify-content:space-between;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 1"
+            <img src="/images/figs_project/StableFluid/circles.gif" alt="Demo 1"
                 style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 2"
+            <img src="/images/figs_project/StableFluid/square.gif" alt="Demo 2"
                 style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
-            <img src="/images/landscape-trees.jpg" alt="Demo 3"
+            <img src="/images/figs_project/StableFluid/smoke_plume.gif" alt="Demo 3"
                 style="flex:0 0 calc(33.333% - 8px);max-width:33.333%;height:auto;">
           </div>
-
-
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the projectDescription about the work on/with the project
+          A 2-D stable-fluid solver originally prototyped for an **LG Electronics** project on real-time air-conditioning airflow visualization in the metaverse. Implemented in Taichi for GPU-accelerated Conjugate gradient method
 
       - layout: top
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: PCISPH(Predictive-Corrective Incompressible SPH)&nbsp;
           <a href="https://github.com/HeejoJeong/PCISPH">
           <i class="fab fa-github"></i>
@@ -225,5 +227,5 @@ exclude : [
 
 
 # TODO List
-# 2. Stable Fluid Refactoring and Github Upload
+# Published paper를 Projects에 추가하기.
 # 6. 공부중인거.
