@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Heejo Jeong
-title: Ph.D Student (May 2026 ~ ) | M.S in CS 
+title: Ph.D. Student at the University of Melbourne | M.S. in Computer Science
 email: wjdgmlwh1629343@gmail.com
 #wjdgmlwh1629343@gmail.com
 # email_title: Email (Email title override)
@@ -55,10 +55,11 @@ googlescholar_username: #D847cGsAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  &nbsp;Hi, I’m Heejo Jeong. I graduated with an M.S. in Computer Graphics from Korea University,
-  specializing in physics-based animation, and along the way I developed a passion for real-time graphics.
-  I’m now looking for a Ph.D. program where I can help push the boundaries of realistic,
-  interactive visual computing.
+  &nbsp;Hi, I’m Heejo Jeong, a Ph.D. student at the University of Melbourne,
+  supervised by Professor Taehyun Rhee and co-supervised by Dr Gabriele Marini.
+  I received my M.S. in Computer Graphics from Korea University, where I specialized in
+  physics-based animation. My research interests include realistic and interactive visual computing,
+  real-time graphics, and physics-based animation.
   <br>
   &nbsp;<strong>You can find more details about my academic background and experience in my</strong> [CV](/images/Heejo_Jeong_s_CV.pdf).
 
@@ -74,6 +75,16 @@ content:
   - title: Education
     layout: list
     content:
+      - layout: top
+        border: weak
+        title: University of Melbourne, <small>Melbourne, Australia</small>
+        sub_title: |
+          <br>
+          <strong>Ph.D. Student</strong>
+          <small>(May&nbsp;2026 – Present)</small><br>
+          &emsp;Supervisor: <strong>Prof.&nbsp;Taehyun&nbsp;Rhee</strong><br>
+          &emsp;Co-supervisor: <strong>Dr&nbsp;Gabriele&nbsp;Marini</strong>
+
       - layout: top
         border: weak
         title: Korea University, <small>Seoul, Republic of Korea</small>
